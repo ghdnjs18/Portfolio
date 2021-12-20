@@ -2,7 +2,7 @@ import React, { useEffect, useState } from "react";
 import "./Home.css";
 
 const Home = () => {
-  const [text, setText] = useState("개발자 김호원의 포트폴리오입니다.");
+  const [text, setText] = useState("포트폴리오입니다.");
   const [tmpText, setTmpText] = useState([]);
   const [index, setIndex] = useState(0);
 
