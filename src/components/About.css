@@ -1,0 +1,12 @@
+.about {
+  background-color: saddlebrown;
+
+  padding: 100px 0 100px 0;
+}
+
+.title {
+  color: white;
+  font-size: 3rem;
+  font: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
