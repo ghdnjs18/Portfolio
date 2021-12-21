@@ -1,0 +1,11 @@
+.projects-title {
+  /* display: inline-block; */
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+
+  /* border-bottom-width: 1px;
+      border-bottom-style: solid; */
+  text-decoration: underline;
+}

@@ -4,6 +4,7 @@ import "./Skils.css";
 const Skils = () => {
   return (
     <div className="skils">
+      <div className="skils-title">SKILs</div>
       <div className="front-end">
         <h2>Java</h2>
         <p>

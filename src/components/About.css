@@ -4,7 +4,7 @@
   padding: 50px 0 50px 0;
 }
 
-.title {
+.about-title {
   /* display: inline-block; */
   text-align: center;
   color: white;
@@ -17,20 +17,20 @@
   text-decoration: underline;
 }
 
-.contents {
+.about-contents {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
 }
 
-.content {
+.about-content {
   display: block;
   width: 30%;
 
   margin: 20px;
 }
 
-.sub-title {
+.about-sub-title {
   color: white;
   font-size: 1.5rem;
   font-weight: bold;
