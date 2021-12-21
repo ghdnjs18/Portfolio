@@ -1,10 +1,10 @@
 import React from "react";
-import "./Skils.css";
+import "./Skills.css";
 
-const Skils = () => {
+const Skills = () => {
   return (
-    <div className="skils">
-      <div className="skils-title">SKILs</div>
+    <div className="skills">
+      <div className="skills-title">SKILLs</div>
       <div className="front-end">
         <h2>Java</h2>
         <p>
@@ -89,4 +89,4 @@ const Skils = () => {
   );
 };
 
-export default Skils;
+export default Skills;

@@ -1,5 +1,5 @@
 import "./App.css";
-import { About, Contact, Home, Projects, Skils } from "./components";
+import { About, Contact, Home, Projects, Skills } from "./components";
 
 function App() {
   return (
@@ -9,7 +9,7 @@ function App() {
       {/* about */}
       <About />
       {/* skils */}
-      <Skils />
+      <Skills />
       {/* projects */}
       <Projects />
       {/* contact */}

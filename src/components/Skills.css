@@ -1,4 +1,4 @@
-.skils-title {
+.skills-title {
   /* display: inline-block; */
   text-align: center;
   font-size: 3rem;
@@ -10,5 +10,5 @@
   text-decoration: underline;
 }
 .front-end {
-  margin: 5%;
+  margin: 40px;
 }
