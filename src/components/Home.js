@@ -19,7 +19,7 @@ const Home = () => {
 
   return (
     <div className="Home">
-      <h1>{tmpText}</h1>
+      <div>{tmpText}</div>
     </div>
   );
 };
