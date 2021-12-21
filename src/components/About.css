@@ -1,20 +1,28 @@
-.about {
-  background-color: saddlebrown;
+.bar {
+  /* display: block; */
+  text-align: center;
+  background-color: black;
+  height: 4px;
+  width: 70px;
 
+  margin: 5px 0 50px 0;
+}
+
+.about {
+  background-color: rgb(240, 240, 240);
   padding: 50px 20px 50px 20px;
 }
 
 .about-title {
   /* display: inline-block; */
   text-align: center;
-  color: white;
   font-size: 3rem;
   font-weight: bold;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 
   /* border-bottom-width: 1px;
   border-bottom-style: solid; */
-  text-decoration: underline;
+  /* text-decoration: underline; */
 }
 
 .about-contents {
@@ -31,7 +39,6 @@
 }
 
 .about-sub-title {
-  color: white;
   font-size: 1.5rem;
   font-weight: bold;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
