@@ -6,6 +6,7 @@
 
 .title {
   /* display: inline-block; */
+  text-align: center;
   color: white;
   font-size: 3rem;
   font-weight: bold;
