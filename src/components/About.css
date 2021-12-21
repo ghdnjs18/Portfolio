@@ -1,15 +1,37 @@
 .about {
   background-color: saddlebrown;
 
-  padding: 100px 0 100px 0;
+  padding: 50px 0 50px 0;
 }
 
 .title {
+  /* display: inline-block; */
   color: white;
   font-size: 3rem;
-  font: bold;
+  font-weight: bold;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 
-  border-bottom-width: 1px;
-  border-bottom-style: solid;
+  /* border-bottom-width: 1px;
+  border-bottom-style: solid; */
+  text-decoration: underline;
+}
+
+.contents {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+
+.content {
+  display: block;
+  width: 30%;
+
+  margin: 20px;
+}
+
+.sub-title {
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
 }

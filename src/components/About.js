@@ -7,21 +7,23 @@ const About = () => {
       <div className="title">ABOUT</div>
       <div className="bar"></div>
       <div className="contents">
-        <div>
-          <h2>서브 타이틀?</h2>
-          <section>
-            <p>
-              내요옹ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-            </p>
-          </section>
+        <div className="content">
+          <div className="sub-title">서브 타이틀?</div>
+          <p>
+            내요옹ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+          </p>
         </div>
-        <div>
-          <h2>서브 타이틀?</h2>
-          <section>
-            <p>
-              내요옹ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
-            </p>
-          </section>
+        <div className="content">
+          <div className="sub-title">서브 타이틀?</div>
+          <p>
+            내요옹ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+          </p>
+        </div>
+        <div className="content">
+          <div className="sub-title">서브 타이틀?</div>
+          <p>
+            내요옹ㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇㅇ
+          </p>
         </div>
       </div>
     </div>
