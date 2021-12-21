@@ -1,3 +1,9 @@
+.projects {
+  background-color: wheat;
+
+  padding: 50px 20px 50px 20px;
+}
+
 .projects-title {
   /* display: inline-block; */
   text-align: center;
@@ -8,4 +14,18 @@
   /* border-bottom-width: 1px;
       border-bottom-style: solid; */
   text-decoration: underline;
+}
+
+.project {
+  background-color: white;
+  border-radius: 10px;
+  margin: 20px;
+  padding: 10px;
+}
+
+.project-title {
+  text-align: center;
+
+  font-weight: bold;
+  font-size: 15pt;
 }
