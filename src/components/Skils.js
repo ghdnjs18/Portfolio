@@ -5,20 +5,84 @@ const Skils = () => {
   return (
     <div className="skils">
       <div className="front-end">
-        <h2>front-end</h2>
-        html / css / js / react /
+        <h2>Java</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
       </div>
-      <div className="back-end">
-        <h2>back-end</h2>python /
+      <div className="front-end">
+        <h2>Python</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
       </div>
-      <div className="deployment">
-        <h2>deployment</h2>html / css / js / react /
+      <div className="front-end">
+        <h2>C</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
       </div>
-      <div className="versionControl">
-        <h2>versionControl</h2>git / github
+      <div className="front-end">
+        <h2>JavaScript</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
       </div>
-      <div className="certificate">
-        <h2>certificate</h2>정보처리기사
+      <div className="front-end">
+        <h2>HTML5</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
+      </div>
+      <div className="front-end">
+        <h2>CSS3</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
+      </div>
+      <div className="front-end">
+        <h2>React</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
+      </div>
+      <div className="front-end">
+        <h2>SpringFrameWork</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
+      </div>
+      <div className="front-end">
+        <h2>Github</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
+      </div>
+      <div className="front-end">
+        <h2>Github</h2>
+        <p>
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
+          내용입니다.
+        </p>
       </div>
     </div>
   );
