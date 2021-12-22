@@ -18,7 +18,7 @@ const About = () => {
         About
       </div>
       <div className="bar-container">
-        <div className="bar" {...animatedItem[1]}></div>
+        <div className="about-bar" {...animatedItem[1]}></div>
       </div>
       <div className="about-contents">
         <div className="about-content" {...animatedItem[2]}>
