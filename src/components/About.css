@@ -1,13 +1,3 @@
-.bar {
-  /* display: block; */
-  text-align: center;
-  background-color: black;
-  height: 4px;
-  width: 70px;
-
-  margin: 5px 0 50px 0;
-}
-
 .about {
   background-color: rgb(240, 240, 240);
   padding: 50px 20px 50px 20px;
@@ -25,15 +15,32 @@
   /* text-decoration: underline; */
 }
 
+.bar-container {
+  text-align: center;
+}
+.bar {
+  display: inline-block;
+  /* text-align: center; */
+  background-color: black;
+  height: 4px;
+  width: 80px;
+
+  margin: 5px 0 50px 0;
+}
+
 .about-contents {
   display: flex;
   flex-wrap: wrap;
   justify-content: space-evenly;
+
+  /* opacity: 0; */
+  /* transition: all 0.5s ease; */
 }
 
 .about-content {
   display: block;
-  width: 30%;
+  width: 240px;
+  object-fit: contain;
 
   margin: 20px;
 }
