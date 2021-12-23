@@ -114,7 +114,7 @@
   -webkit-transform: translateX(100%)
 } */
 
-@media screen and (max-width: 1183px) {
+@media screen and (max-width: 1184px) {
   .skill-content {
     width: 90%;
   }
