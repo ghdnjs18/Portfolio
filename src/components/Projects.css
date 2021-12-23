@@ -10,10 +10,16 @@
   font-size: 3rem;
   font-weight: bold;
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
 
-  /* border-bottom-width: 1px;
-      border-bottom-style: solid; */
-  text-decoration: underline;
+.projects-bar {
+  display: inline-block;
+  /* text-align: center; */
+  background-color: black;
+  height: 4px;
+  width: 80px;
+
+  margin: 5px 0 50px 0;
 }
 
 .project {
@@ -25,7 +31,31 @@
 
 .project-title {
   text-align: center;
+  margin: 10px;
 
   font-weight: bold;
-  font-size: 15pt;
+  font-size: 18pt;
+}
+
+.project-period {
+  text-align: center;
+  margin: 10px;
+
+  color: gray;
+  font-weight: bold;
+  font-size: 10pt;
+}
+
+.project-contents {
+  margin: 20px;
+}
+
+.project-contents hr {
+  color: lightgray;
+  border-color: white;
+  background-color: white;
+}
+
+.project-summary {
+  text-align: center;
 }
