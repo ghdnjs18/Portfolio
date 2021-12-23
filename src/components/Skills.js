@@ -31,7 +31,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[2]}>
           <h2>Java</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-1">
+              <span>70%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -42,7 +44,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[3]}>
           <h2>Python</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-2">
+              <span>60%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -53,7 +57,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[4]}>
           <h2>C</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-3">
+              <span>50%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -64,7 +70,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[5]}>
           <h2>JavaScript</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-4">
+              <span>60%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -75,7 +83,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[6]}>
           <h2>HTML5</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-5">
+              <span>50%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -86,7 +96,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[7]}>
           <h2>CSS3</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-6">
+              <span>40%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -97,7 +109,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[8]}>
           <h2>React</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-7">
+              <span>60%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -108,7 +122,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[9]}>
           <h2>SpringFrameWork</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-8">
+              <span>50%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -119,7 +135,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[10]}>
           <h2>Github</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-9">
+              <span>60%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
@@ -130,7 +148,9 @@ const Skills = () => {
         <div className="skill-content" {...animatedItem[11]}>
           <h2>Github</h2>
           <div className="progress-bar-container">
-            <div className="progress-bar"></div>
+            <div className="progress-bar color-10">
+              <span>70%</span>
+            </div>
           </div>
           <div>
             내용입니다. 내용입니다. 내용입니다. 내용입니다. 내용입니다.
