@@ -1,5 +1,6 @@
-import "./App.css";
+import React from "react";
 import { About, Contact, Home, Projects, Skills } from "./components";
+import "./App.css";
 
 function App() {
   return (
