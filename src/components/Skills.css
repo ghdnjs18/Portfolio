@@ -64,7 +64,7 @@
 .progress-bar span {
   position: absolute;
   color: black;
-  font-size: 1px;
+  font-size: .5rem;
   font-weight: bold;
 }
 .progress-bar.color-1 {
@@ -76,11 +76,11 @@
   background-color: #df822b;
 }
 .progress-bar.color-3 {
-  width: 50%;
+  width: 40%;
   background-color: #e9e632;
 }
 .progress-bar.color-4 {
-  width: 60%;
+  width: 50%;
   background-color: #09b864;
 }
 .progress-bar.color-5 {
@@ -88,7 +88,7 @@
   background-color: #114fc2;
 }
 .progress-bar.color-6 {
-  width: 40%;
+  width: 30%;
   background-color: #090cb8;
 }
 .progress-bar.color-7 {
@@ -96,15 +96,15 @@
   background-color: #5509b8;
 }
 .progress-bar.color-8 {
-  width: 50%;
+  width: 40%;
   background-color: #b809af;
 }
 .progress-bar.color-9 {
-  width: 60%;
+  width: 50%;
   background-color: #b80935;
 }
 .progress-bar.color-10 {
-  width: 100%;
+  width: 50%;
   background-color: #09b835;
 }
 
