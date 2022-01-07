@@ -20,14 +20,9 @@ const Projects = () => {
   const animatedItem = {
     0: useScrollFadeIn("right", 1, 0, 30),
     1: useScrollFadeIn("right", 1, 0.3, 300),
-    2: useScrollFadeIn("right", 1, 0, 50, 0.5),
-    3: useScrollFadeIn("right", 1, 0, 50, 0.5),
-    4: useScrollFadeIn("right", 1, 0, 50, 0.5),
-    5: useScrollFadeIn(),
-    6: useScrollFadeIn(),
-    7: useScrollFadeIn(),
-    8: useScrollFadeIn(),
-    9: useScrollFadeIn(),
+    2: useScrollFadeIn("right", 1, 0, 20, 0.4),
+    3: useScrollFadeIn("right", 1, 0, 20, 0.4),
+    4: useScrollFadeIn("right", 1, 0, 20, 0.4),
   };
   return (
     <div className="projects">
