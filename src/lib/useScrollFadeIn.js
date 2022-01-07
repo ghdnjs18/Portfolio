@@ -4,7 +4,8 @@ const useScrollFadeIn = (
   direction = "up",
   duration = 1,
   delay = 0,
-  length = 50
+  length = 50,
+  threshold = 0.7
 ) => {
   const dom = useRef();
 
@@ -27,7 +28,6 @@ const useScrollFadeIn = (
     ([entry]) => {
       // ref가 설정된 태그
       const { current } = dom;
-      console.log(entry);
       // 해당 태그의 isIntersecting이 true일 경우, 즉 화면안에 들어왔을 경우
       // 해당 태그의 스타일을 변경시킨다.
       if (entry.isIntersecting) {
@@ -49,7 +49,7 @@ const useScrollFadeIn = (
 
     // ref설정된 태그가 있다면,
     if (current) {
-      observer = new IntersectionObserver(handleScroll, { threshold: 0.7 });
+      observer = new IntersectionObserver(handleScroll, { threshold: threshold });
       observer.observe(current);
 
       return () => observer && observer.disconnect();
