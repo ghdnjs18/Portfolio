@@ -9,14 +9,19 @@
   background-size: cover;
 }
 
-.Home div {
-  display: flex;
-  justify-content: center;
-  align-items: center;
-
+.home-container {
   width: 100%;
   height: 100vh;
   background: rgba(0, 0, 0, 0.83);
+}
+
+.home-contents {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
   color: white;
 
   font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
