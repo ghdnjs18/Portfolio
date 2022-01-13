@@ -136,7 +136,7 @@ const Projects = () => {
           </a>
           &nbsp;&nbsp;&nbsp;&nbsp;
           <a href="https://hotels-com-e93e0.firebaseapp.com">
-            <FaHome size={40} color="black" />
+            <FaChrome size={40} color="black" />
           </a>
           <AiOutlineMore size={40} color="black" />
           <FaReact size={40} color="black" />
