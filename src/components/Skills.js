@@ -32,7 +32,7 @@ const Skills = () => {
           <h2>Java</h2>
           <div className="progress-bar-container">
             <div className="progress-bar color-1">
-              <span>70%</span>
+              <span>60%</span>
             </div>
           </div>
           <div>

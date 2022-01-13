@@ -4,7 +4,7 @@ import "./Home.css";
 const Home = () => {
   const [text, setText] = useState("안녕하세요 !");
   const [tmpText, setTmpText] = useState([]);
-  const [text2, setText2] = useState("저의 포토폴리오에 오신건 환영합니다.");
+  const [text2, setText2] = useState("저의 포토폴리오에 오신 걸 환영합니다.");
   const [tmpText2, setTmpText2] = useState([]);
   const [index, setIndex] = useState(0);
   const [index2, setIndex2] = useState(0);
